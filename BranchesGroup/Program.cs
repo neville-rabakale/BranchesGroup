@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var myGUy = new Person("Alex", 25);
         }
     }
 }
